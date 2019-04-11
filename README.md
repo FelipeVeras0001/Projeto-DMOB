@@ -7,21 +7,21 @@ Passo à passo da configuração necessária para deixar o ambiente e o projeto 
 
 * Clonar o repositório:
 
-$git https://github.com/FelipeVeras0001/Projeto-DMOB.git
+$ git https://github.com/FelipeVeras0001/Projeto-DMOB.git
 
 #Executar o banco de dados no cmd:
 
-$mongod
+$ mongod
 
 #Comando para Instalar dependências dentro da pasta backend e angular1
 
-$npm i --save
+$ npm i --save
 
 #Comando para executar a aplicação (pasta angular1)
 
-$npm run dev
+$ npm run dev
 
 #Comando para executar a aplicação em produção
 
-$npm run production
+$ npm run production
 
